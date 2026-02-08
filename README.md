@@ -1,6 +1,6 @@
 # Homework-1: Simple Signup Form 📝
 
-![Signup Form Preview](https://via.placeholder.com/800x400?text=Signup+Form+Preview)  
+![Signup Form Preview](https://github.com/user-attachments/assets/b253ef16-c389-459f-bccd-e9eea6b145cd) 
 *(Note: Replace this placeholder with an actual screenshot of the form for better visualization.)*
 
 ## 📖 Overview
